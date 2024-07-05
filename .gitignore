@@ -1,0 +1,7 @@
+*.log
+*.exe
+*.classpath
+*.project
+*.settings
+**/.module-info.java
+**/Retos_Semanales_Moure
